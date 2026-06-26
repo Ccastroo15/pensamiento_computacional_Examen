@@ -5,7 +5,7 @@ El proyecto es un juego interactivo programado en p5.js que se basa en las logic
 
 ## Enlaces del Proyecto
 * [Link para Jugar en Vivo](https://editor.p5js.org/claudia.castro3/full/1u2OK23SA)
-* [Link para Revisar el Código en p5.js](PONER_AQUI_EL_LINK_DE_P5JS_EDITOR)
+* [Link para Revisar el Código en p5.js](https://editor.p5js.org/claudia.castro3/sketches/1u2OK23SA)
 
 ---
 
