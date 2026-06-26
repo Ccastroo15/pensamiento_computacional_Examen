@@ -65,7 +65,7 @@ La verdad no siento que tenga un proceso tan extenso porque la estetica inicial 
 como ya dije use mi solemne 2 para traducirla al sistema de juego cambiando algunas cosas, me mantuve en los colores y formas pero elimine la caracteristica Opart que era el cambio progresivo de colores y de tamaños en las formas
 adjunto mi solemne 2 para que se entienda:
 
-![p5.js solemne2](PONER_AQUI_LINK_O_IMAGEN_DE_TU_BOCETO_1)
+![p5.js solemne2](https://editor.p5js.org/claudia.castro3/full/VhYAXNIZ7))
 
 ### Iteraciones del Desarrollo
 No saque fotos del proceso pero al principio los colores del fondo iban invertidos pero no me gusto que los circulos tuvieran un contorno negro y siento que se ve mejor con el contraste del fondo negro y los colores de las formas. otra cosa que cambie o mejore en el transcurso fue el temaño de las formas, al principio tenia los circulos de la grilla muy pequeños y aunque le agregaba dificultad preferi cambiar la velocidad para hacerlo mas dificil y agrandar los circulos porque se veian mejor asi, y al final me di cuenta que me faltaba la parte map() de la rubrica y la solucion que encontre fue agregar la barra de progreso al final 
