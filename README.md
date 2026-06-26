@@ -53,7 +53,7 @@ use sonidos que fueran de juegos de arcade, creo que la vibra retro quedaba bien
 
 Este es el mapa de como funciona la logica completa del sistema interactivo, recicle parte de mi diagrama de flujo pasado, mas o menos la estetica que esta inspirada en la estetica del juego:
 
-![Diagrama de Flujo del Juego](DiagramaDeFlujo_shift.pdf)
+![Diagrama de Flujo del Juego](examen_PC/diagrama.png)
 
 ---
 
