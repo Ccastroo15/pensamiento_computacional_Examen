@@ -3,7 +3,7 @@ proceso de mi examen de pensamiento computacional
 # SHIFT - Restaura el Orden (Inspirado en la Bauhaus)
 El proyecto es un juego interactivo programado en p5.js que se basa en las logicas geometricas y de color de la escuela de diseño Bauhaus.
 
-## 🔗 Enlaces del Proyecto
+## Enlaces del Proyecto
 * [Link para Jugar en Vivo](https://editor.p5js.org/claudia.castro3/full/1u2OK23SA)
 * [Link para Revisar el Código en p5.js](PONER_AQUI_EL_LINK_DE_P5JS_EDITOR)
 
@@ -12,10 +12,10 @@ El proyecto es un juego interactivo programado en p5.js que se basa en las logic
 ## Descripción
 
 ### Descripción Objetiva
-SHIFT es un juego visual e interactivo de reaccion rapida. En la pantalla se muestra una grilla de 8x8 casillas sobre un fondo negro. Al principio del juego todas las casillas son circulos blancos pero a medida que avanza el tiempo las celdas se empiezan a poner de color amarillo de forma aleatoria. El usuario tiene que hacer click rapido sobre los circulos amarillos antes de que se acabe el tiempo de la celda y cambie a color rojo. Si se clickea bien el circulo se transforma en un cuadrado azul y da puntaje. Si el jugador se equivoca o la celda se vuelve roja se pierde una vida. El juego termina cuando completas toda la grilla con cuadrados azules (Victoria) o si te quedas sin vidas (Game Over).
+SHIFT es un juego visual e interactivo de reaccion rapida. En la pantalla se muestra una grilla de 8x8 casillas sobre un fondo negro. Al principio del juego todas las casillas son circulos blancos pero al avanzar el tiempo las celdas se empiezan a poner de color amarillo de forma aleatoria. El usuario tiene que hacer click rapido sobre los circulos amarillos antes de que se acabe el tiempo de la celda y cambie a color rojo. Si se clickea bien el circulo se transforma en un cuadrado azul y da puntaje. Si el jugador se equivoca o la celda se vuelve roja se pierde una vida. El juego termina cuando completas toda la grilla con cuadrados azules (Victoria) o si te quedas sin vidas (Game Over). 
 
 ### Descripción Conceptual
-El proyecto se expande a partir de la solemne II y se inspira directamente en la **Bauhaus**. Mas que copiar la estetica a la fuerza busque traducir su logica de diseño a un sistema computacional. Use la triada de colores primarios que planteaba Kandinsky y la asociacion de forma-color: el circulo amarillo (que representa tension y dinamismo dinamico), el cuadrado azul (que representa estabilidad y orden) y el circulo rojo como una alerta de error o peligro. El juego conceptualmente se trata de pasar del caos y la alerta (amarillo/rojo) a restaurar el orden estructural del espacio (el cuadrado azul).
+El proyecto se expande a partir de la solemne II y se inspira directamente en la **Bauhaus**. Mas que copiar la estetica a la fuerza busque traducir su logica de diseño a un sistema computacional. Use la triada de colores primarios que planteaba Kandinsky y la asociacion de forma-color: el circulo amarillo (que representa tension y dinamismo dinamico), el cuadrado azul (que representa estabilidad y orden) y el circulo rojo como una alerta de error o peligro. El juego conceptualmente se trata de pasar del caos y la alerta (amarillo/rojo) a restaurar el orden estructural del espacio (el cuadrado azul) por eso al ganar el juego dice !RESTAURASTE EL ORDEN¡ que seria la mision principal del juego.
 
 ---
 
